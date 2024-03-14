@@ -20,7 +20,7 @@
 
 # Estudo de caso
 
-A Holding Benezinho 🤓👍🏽 expandiu muito o seu portifólio de sistemas gerenciados, para prover maior segurança ao acesso
+A Holding do enzinho 🤓👍 expandiu muito o seu portifólio de sistemas gerenciados, para prover maior segurança ao acesso
 dos diversos sistemas da Holding, os arquitetos de software propuseram o desenvolvendo de um sistema para o
 gerenciamento de permissões dos sistemas empresariais da Holding Benezinho.
 
