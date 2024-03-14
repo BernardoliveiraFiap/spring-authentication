@@ -1,4 +1,7 @@
 package br.com.fiap.springpfauthentication.repository;
 
-public interface PerfilRepository {
-}
+import br.com.fiap.springpfauthentication.entity.Perfil;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface PerfilRepository extends JpaRepository<Perfil, Long> {}
+

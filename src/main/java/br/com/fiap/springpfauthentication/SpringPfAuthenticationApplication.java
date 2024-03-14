@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringPfAuthenticationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run( SpringPfAuthenticationApplication.class, args );
+        SpringApplication.run(SpringPfAuthenticationApplication.class, args);
     }
 
 }
+
